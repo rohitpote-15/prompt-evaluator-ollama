@@ -1,0 +1,10 @@
+{
+  "examples": [
+    {
+      "prompt": "Summarize the following article: ..."
+    },
+    {
+      "prompt": "Translate the sentence to French: Hello, how are you?"
+    }
+  ]
+}
