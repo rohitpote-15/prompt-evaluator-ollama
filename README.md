@@ -99,7 +99,7 @@ prompt-evaluator-ollama/
 
 ## 🛑 Notes
 
-* This app will not run on **Streamlit Cloud** due to its dependency on `localhost:xxxx`.
+* This app will not run on **Streamlit Cloud** https://prompt-evaluator-ollama.streamlit.app/, but due to its dependency on `localhost:xxxx`.
 * Your system must have enough RAM to load the selected LLM model via Ollama.
 
 ---
